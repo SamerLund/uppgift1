@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@500&display=swap');
+
+main {
+    width: 60%;
+    margin: auto;
+    border: 10px solid rgba(9, 187, 53, 0.219);
+    padding-bottom: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1,
+h2 {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+#hero {
+    height: auto;
+    width: 100%;
+
+}
+
+.image {
+    width: 50%;
+    height: auto;
+    margin: auto;
+    display: block;
+}
